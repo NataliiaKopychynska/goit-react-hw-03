@@ -1,0 +1,9 @@
+.containerList {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 24px;
+  width: 450px;
+  padding: 0;
+}
